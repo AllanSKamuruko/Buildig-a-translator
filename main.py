@@ -12,4 +12,8 @@ print(translate(input(" enter a phrase: ")))
 
 
 '''
+Adding comments
+Getting started with git
+
+Commit and Push changes
 '''
